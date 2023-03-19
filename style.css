@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+ }
+
+ p {
+    color: grey;
+ }
+
+ .block {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+ }
